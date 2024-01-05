@@ -13,8 +13,8 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'Airbnb',
-  description: 'Airbnb Clone',
+  title: 'Airbnb Clone - Shujaat Khan Jadoon',
+  description: 'Airbnb Clone With Next.JS',
 }
 
 const font = Nunito({ 
