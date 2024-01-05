@@ -92,7 +92,7 @@ const Modal: React.FC<ModalProps> = ({
           xl:w-2/5
           my-6
           mx-auto 
-          h-full 
+          h-full f
           lg:h-auto
           md:h-auto
           "
@@ -140,7 +140,7 @@ const Modal: React.FC<ModalProps> = ({
                     hover:opacity-70
                     transition
                     absolute
-                    left-9
+                    right-9
                   "
                   onClick={handleClose}
                 >
